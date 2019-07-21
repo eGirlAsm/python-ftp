@@ -11,3 +11,7 @@ python ftpbasic.py
 ## dependencies
 
 https://github.com/giampaolo/pyftpdlib
+
+## pyftpdlib document
+
+https://pyftpdlib.readthedocs.io/en/latest/
