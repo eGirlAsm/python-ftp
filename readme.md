@@ -7,3 +7,7 @@ pip install -r requirements.txt
 python ftpbasic.py
 
 ```
+
+## dependencies
+
+https://github.com/giampaolo/pyftpdlib
